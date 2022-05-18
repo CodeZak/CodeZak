@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Zakitek
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Web Scraping using Python, JavaScript and PHP
+- 👀 I’m interested in Python , Web Scraping and Web Developement -  JavaScript and PHP - 
 - 📫 How to reach me :  Mahi.Zakariae@gmail.com
 
 <!---
