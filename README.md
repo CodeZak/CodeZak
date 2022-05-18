@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zakitek
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning PHP and JavaScript
+- 🌱 I’m currently learning JavaScript and PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :  Mahi.Zakariae@gmail.com
 
