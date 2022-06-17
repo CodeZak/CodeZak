@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zakitek
-- 👀 I’m interested in Python , Web Scraping and Web Developement -  JavaScript and PHP - 
+- 👀 I’m interested in MERN Stack
 - 📫 How to reach me :  Mahi.Zakariae@gmail.com
 
 <!---
