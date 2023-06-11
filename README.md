@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Zakitek
-- 👀 I’m interested in MERN Stack
+- 👋 Hi, I’m @CodeZak
+- 👀 I’m interested in Next.js & Mern Stack
 - 📫 How to reach me :  Mahi.Zakariae@gmail.com
 
 <!---
