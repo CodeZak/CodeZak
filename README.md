@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CodeZak  
-- 👀 I’m the founder of these amazing projects:  
+- 👀 I’m the founder of these projects:  
 
 ### [SaasCore.com](https://saascore.com)  
-**A Next.js SaaS Boilerplate that truly stands out** ([Try the live demo](#))  
+**A Next.js SaaS Boilerplate that truly stands out** ([Try the live demo](https://demo.saascore.com))  
 Features:  
 - Functional User & Admin Dashboards  
 - Built-in Affiliate Program System  
@@ -13,7 +13,7 @@ Features:
 ---
 
 ### [DirectoryEasy.com](https://directoryeasy.com)  
-**A Next.js Directory Boilerplate** ([Try the live demo](#))  
+**A Next.js Directory Boilerplate** ([Try the live demo](https://demo.directoryeasy.com))  
 Features:  
 - Functional User & Admin Dashboards  
 - Advanced Filter System  
