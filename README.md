@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @CodeZak
-- 👀 I’m The founder of These beautiful projects :
+- 👋 Hi, I’m @CodeZak  
+- 👀 I’m the founder of these amazing projects:  
+
 ### [SaasCore.com](https://saascore.com)  
 **A Next.js SaaS Boilerplate that truly stands out** ([Try the live demo](#))  
-Includes:  
+Features:  
 - Functional User & Admin Dashboards  
 - Built-in Affiliate Program System  
 - NextAuth + Blog + Stripe + Emails + Server Actions  
@@ -13,7 +14,7 @@ Includes:
 
 ### [DirectoryEasy.com](https://directoryeasy.com)  
 **A Next.js Directory Boilerplate** ([Try the live demo](#))  
-Includes:  
+Features:  
 - Functional User & Admin Dashboards  
 - Advanced Filter System  
 - NextAuth + Blog + Reviews + Favorites  
@@ -29,8 +30,13 @@ Boost traffic, build backlinks, and explore the best directories in one place.
 
 #### [TopBoilerplate.com](https://topboilerplate.com)  
 **A directory of boilerplates**  
-The best SaaS boilerplates to build faster.
+Discover the best SaaS boilerplates to build faster.
 
-- 📫 reach out to me :  Mahi.Zakariae@gmail.com
+---
+
+- 📫 Reach out to me at: **Mahi.Zakariae@gmail.com**
+
+
+
 
 
