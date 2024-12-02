@@ -6,7 +6,7 @@
 Features:  
 - Functional User & Admin Dashboards  
 - Built-in Affiliate Program System  
-- NextAuth + Blog + Stripe + Emails + Server Actions  
+- NextAuth + Blog + Stripe + Emails + Server Actions ..etc
 
 **#SAAS #Nextjs**
 
@@ -17,7 +17,7 @@ Features:
 Features:  
 - Functional User & Admin Dashboards  
 - Advanced Filter System  
-- NextAuth + Blog + Reviews + Favorites  
+- NextAuth + Blog + Reviews + Favorites ..etc
 
 **#Directory**
 
