@@ -8,7 +8,6 @@ Features:
 - Built-in Affiliate Program System  
 - NextAuth + Blog + Stripe + Emails + Server Actions ..etc
 
-**#SAAS #Nextjs**
 
 ---
 
@@ -19,7 +18,6 @@ Features:
 - Advanced Filter System  
 - NextAuth + Blog + Reviews + Favorites ..etc
 
-**#Directory**
 
 ---
 
