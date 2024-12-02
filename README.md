@@ -4,7 +4,7 @@
 ### [SaasCore.com](https://saascore.com)  
 **A Next.js SaaS Boilerplate that truly stands out** ([Try the live demo](https://demo.saascore.com))  
 Features:  
-- Functional User & Admin & affiliate Dashboards  
+- Functional User,Admin and affiliate Dashboards  
 - Built-in Affiliate Program System  
 - NextAuth + Blog + Stripe + Emails + Server Actions ..etc
 
