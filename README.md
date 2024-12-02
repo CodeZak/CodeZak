@@ -32,7 +32,7 @@ Discover the best SaaS boilerplates to build faster.
 
 ---
 
-- 📫 Reach out to me at: **Mahi.Zakariae@gmail.com**
+- 📫 Reach out to me at: **Mahi.Zakariae@gmail.com** or ([Twitter](https://x.com/codezakk))  
 
 
 
