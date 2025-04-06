@@ -14,7 +14,7 @@ Features:
 **A No-code Directory Builder** ([Link](https://directoryeasy.com))  
 ---
 
-### [DirectoryEasy.com](https://directoryeasy.com)  
+### [Nextjs.DirectoryEasy.com](https://nextjs.directoryeasy.com)  
 **A Next.js Directory Boilerplate** ([Try the live demo](https://demo.directoryeasy.com))  
 Features:  
 - Functional User & Admin Dashboards  
