@@ -8,7 +8,10 @@ Features:
 - Built-in Affiliate Program System  
 - NextAuth + Blog + Stripe + Emails + Server Actions ..etc
 
+---
 
+### [DirectoryEasy.com](https://directoryeasy.com)  
+**A No-code Directory Builder** ([Link](https://directoryeasy.com))  
 ---
 
 ### [DirectoryEasy.com](https://directoryeasy.com)  
